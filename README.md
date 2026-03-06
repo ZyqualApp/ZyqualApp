@@ -4,6 +4,8 @@ Founder of **Zyqual**, an education intelligence platform designed to improve te
 
 I combine **education leadership and software engineering** to build platforms that help governments, schools, and teachers make better decisions using real data.
 
+> Note: This repository is for profile content only and does not contain application source code.
+
 ---
 
 # 🚀 What I'm Building
